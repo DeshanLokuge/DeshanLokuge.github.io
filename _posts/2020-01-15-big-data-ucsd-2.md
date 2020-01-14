@@ -1,15 +1,15 @@
 ---
-date: 2020-01-15 00:10
+date: 2020-01-15 00:14
 layout: post
 title: Big Data Specialization by UCSD
 subtitle: An analytical overview of the UCSD Big Data Specialization
 description: Analytical review of the course and its content
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
-category: css
+category: blog
 tags:
-  - css
-  - frontend
+  - blog
+  - welcome
 author: deshanlokuge
 ---
 This blog post is about the UCSD Big Data Specialization in terms of its main objectives and success in achieving these goals.

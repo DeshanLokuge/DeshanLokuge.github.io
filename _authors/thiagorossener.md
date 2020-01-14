@@ -1,13 +1,15 @@
 ---
 layout: author
-photo: /assets/img/uploads/me.png
-name: deshanlokuge
+photo: /assets/img/uploads/profile.png
+name: thiagorossener
 display_name: Thiago Rossener
 position: Chief Editor
-bio: Data Analyst with a taste for words.
-github_username: DeshanLokuge
-facebook_username: Thanoj Deshan
-instagram_username: thanoj_deshan
-linkedin_username: Thanoj Lokuge
-
+bio: Just a developer.
+github_username: thiagorossener
+facebook_username: thiagorossener
+twitter_username: thiagorossener
+instagram_username: thiagorossener
+linkedin_username: thiagorossener
+medium_username: thiagorossener
 ---
+

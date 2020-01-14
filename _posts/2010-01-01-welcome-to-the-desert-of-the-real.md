@@ -1,10 +1,11 @@
 ---
-date: 2020-01-14 16:03:05
+date: 2019-05-16 23:48:05
 layout: post
-title: Big Data Specialization
-subtitle: - An analytical overview of the UCSD Big Data Specialization -
+title: Welcome to the desert of the real
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: >-
-  As a candidate who completed the Big Data Specialization provided by UCSD on COursera, here is my analytical review of the course and its content as a whole.
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua.
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
@@ -13,101 +14,119 @@ category: blog
 tags:
   - welcome
   - blog
-author: deshanlokuge
+author: thiagorossener
 paginate: true
 ---
-This blog post is about the <a href="#">UCSD Big Data Specialization</a> in terms of its main objectives and success in achieving these goals.
+Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
-> The post contains a review of the course and its content in accordance with the goal it sets to achieve as an online course specializing in Big Data and how successful it is, in delivering the stated content across to the audience.
+> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-Access and respective details about this course can be found at **Coursera Courses** content. Read more about the course and its specifics at [Big Data Specialization](https://www.coursera.org/specializations/big-data)
+Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
-## Outline for the authoritative review  
+## Inline HTML elements
 
-The overview of the contents of the blog post is outlined here:
+HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
-1. Objective(s) of the course
-2. Success of the course in achieving its objectives  
-3. Student workload aligned with course outline
-4. Perceived strengths and weaknesses of the course
-5. Recommended  improvements to be made to the course
+* **To bold text**, use `<strong>`.
+* _To italicize text_, use `<em>`.
+* Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
+* Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
+* <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
+* Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
 
-_Without further ado let's dive right into the details:_
+Most of these elements are styled by browsers with few modifications on our part.
 
-### 1. OBJECTIVES OF THE COURSE
+# Heading 1
 
-_The course mainly intends to:_
+## Heading 2
 
-* Provide the fundamental understanding of big data infrastructure
+### Heading 3
 
-> The course tries to lay a foundation in the minds of the students regarding the fundamentals of Big Data prior to deep diving into the plethora of information available in this domain. Starting off with real life examples and context in which the V's of Big Data demarcates the importance of "Big" data and data in general.
+#### Heading 4
 
-* Introduce the tools and techniques used in big data
+Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 
-> As a student it is only natural that we would be interested in identifying the tools and techniques available to be used to tackle this so called big data and how they differ from the contemporaries used in data analysis in general.
-This course does a significant job in outlying the variety of tools available in the market for handling big data, which is comprehensible to a new comer to the world of Big Data.
-But a minor drawback is that it fails to mention a leading framework used in handling big data, which is Scala.
+--page-break--
 
-* Provide a practical sense of analyzing big data using these tools
+## Code
 
-> Not only does the course provide with an introduction to the tools, it also provide practical exercises to get a hand-on experience as to how to use these tools.
+Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
 
+```js
+// Example can be run directly in your JavaScript console
 
-### 2. SUCCESS OF THE COURSE IN ACHIEVING THE ABOVE objectives
+// Create a function that takes two arguments and returns the sum of those arguments
+var adder = new Function("a", "b", "return a + b");
 
-The course provides a solid understanding of what big data essentially means, especially for a new comer to enormously large data sets and how to handle them. When providing this understanding, they also provide a solid knowledge about how big data is stored and later on used in analytics for deriving insights.
+// Call the function
+adder(2, 6);
+// > 8
+```
 
-For instance, they explain about data lakes and how hadoop eco-system is utilized to extract, transform and load big-data.
+Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
 
-The practical knowledge provided consists of tools and techniques that provide a significant understanding of the scope of Big Data, but given the current standing of the tools used in tackling Big Data issues, the systems introduced in the course can be a bit outdated as well.
+## Lists
 
-For instance, while Splunk can be useful in providing the users an overview of doing basic exploratory data analysis of large volumes of data, the industrial usability in terms of scalability can be seen as a bottleneck.
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
-However, at the same time, the introductory course content, in terms of Spark can be a valuable knowledge area for a new-comer to the deep-end of Big Data and its depth. The reason is that, the module on Spark provides a brief overview of the generally used packages and libraries in handling Big Data problems and how the syntax generally work. So a student such as myself could improve upon this basic foundation knowledge going forward. And on the other hand, Spark (PySpark to be clear) can be seen as a more frequently used industrial tool in Big Data handling which is useful for the course takers in a long-term stand point.
+* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+* Donec id elit non mi porta gravida at eget metus.
+* Nulla vitae elit libero, a pharetra augue.
 
+Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
 
-### 3. STUDENT WORKLOAD ALIGNED WITH COURSE Outline
+1. Vestibulum id ligula porta felis euismod semper.
+2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+3. Maecenas sed diam eget risus varius blandit sit amet non magna.
 
-The course provides with enough study material, both as a video tutorial and summarized slide decks for reading and memorizing the important take-away points from a study session for later use.
+Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
 
-In addition to these materials, the course also provides a significant amount of quizzes and practical assignments to test the aforementioned knowledge these study session imparted to the users.
+Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
 
-In terms of the workload, I believe that the course is self paced but the information provided is pretty much concise with regards to achieving the objective of introducing the key components of Big Data.
+## Images
 
-The quizzes of the module of graph analysis (using the NEO4j analysis platform) was particularly challenging and provided room for the students to implement their own case and then develop the answer based on this hypothetical case.
+Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-The Spark practical assignment was a clustering analysis where the users of a certain online gaming platform needed to be clustered based on their usage data. This provided a brief insight as to how to use Spark, its syntax and use cases.
+![placeholder](https://placehold.it/800x400 "Large example image")
+![placeholder](https://placehold.it/400x200 "Medium example image")
+![placeholder](https://placehold.it/200x200 "Small example image")
 
-In general, KNIME was an interesting practical assignment where its had a drag-and-drop setting to create a pipeline and a user interface rather than a coding script for conducting analysis tasks such as classification that was used in this course in relation with KNIME.
+## Tables
 
-Thus, in general the workload was compensating the time and effort in all courses that they managed to provide an overall understanding of the platforms such as Spark, KNIME, Neo4j and Splunk and how they can be used around large data sets.
+Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-### 4. Perceived strengths and weaknesses of the course
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Upvotes</th>
+      <th>Downvotes</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>Totals</td>
+      <td>21</td>
+      <td>23</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>Alice</td>
+      <td>10</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>Bob</td>
+      <td>4</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Charlie</td>
+      <td>7</td>
+      <td>9</td>
+    </tr>
+  </tbody>
+</table>
 
-The course was significantly strong in disseminating a large volume of knowledge in a concise and simple manner. This is especially true in terms of getting the knowledge and content across to new users in the field of Big Data. But overall I will be listing down the strengths and weaknesses of the course below, in my point of view as a user who has completed the course.
-
-#### Strengths
-
-* Course explains the theory areas simply and gives you practice in a controlled, guided environment.
-
-* The capstone project is built sequentially accumulating all the study areas covered in the course and   wrapping it in an interesting hypothetical case study.
-
-* The delivery of the course content is simple and well-paced, especially for a new-comer into the big data field.
-
-
-#### Weaknesses
-
-* While it does teach you data cleanup techniques, but those are basic techniques. It does not teach feature engineering type of advanced machine learning paradigms in terms of big data.
-
-* The assignments are peer reviewed. Thus the ambiguities are very hard to be solved unless we do a bit of research on our own.
-
-* The capstone project is peer reviewed, It would have been better if a much more reliable approach was taken to validate the accuracy of the answers rather than using peers and guiding them along an answer script.
-
-
-### 5. Recommended improvements to be made
-
-The course module is well-rounded as an introductory door into the universe of Big Data.
-
-I myself, as a data analyst with a small-scale understanding of big data environment, I would say that this course is useful, it will open your mind to the infrastructure and algorithm used, but it does not go so deep in technical details.
-
-But at least it scratch the surface of the Hadoop framework, so you end up with some more material to research on and you get in touch with the basic concept of the Big Data universe.
+Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.

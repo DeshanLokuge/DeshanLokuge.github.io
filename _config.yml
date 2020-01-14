@@ -1,26 +1,25 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Blog Net
+title: Deshan's Blog Space
+description: This is a blog space for the blogs created by Deshan on various articles, courses an more...
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+email: deshanlokuge@gmail.com
+disqus_username: deshanlokuge
 show_hero: true
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: DeshanLokuge
+facebook_username: Thanoj Deshan
+instagram_username: thanojdeshan
+linkedin_username: Thanoj Lokuge
+
 
 
 # Theme Settings

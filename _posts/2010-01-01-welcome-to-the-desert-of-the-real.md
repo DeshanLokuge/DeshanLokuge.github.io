@@ -19,10 +19,6 @@ paginate: true
 ---
 This blog post is about the <a href="#">UCSD Big Data Specialization</a> in terms of its main objectives and success in achieving these goals.
 
-> The post contains a review of the course and its content in accordance with the goal it sets to achieve as an online course specializing in Big Data and how successful it is, in delivering the stated content across to the audience.
-
-Access and respective details about this course can be found at **Coursera Courses** content. Read more about the course and its specifics at [Big Data Specialization](https://www.coursera.org/specializations/big-data)
-
 ## Inline HTML elements
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).

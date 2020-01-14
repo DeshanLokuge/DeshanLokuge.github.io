@@ -17,7 +17,7 @@ author: deshanlokuge
 paginate: true
 ---
 ---
-This blog post is about the <a href="#">UCSD Big Data Specialization</a> in terms of its main objectives and success in achieving these goals.
+This blog post is about the <a href="#">Test</a>, in terms of its main objectives and success in achieving these goals.
 
 ## Inline HTML elements
 

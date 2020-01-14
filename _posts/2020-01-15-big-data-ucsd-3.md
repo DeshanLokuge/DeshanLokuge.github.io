@@ -1,5 +1,5 @@
 ---
-date: 2020-01-15 00:21
+date: 2020-01-15 00:29
 layout: post
 title: Changing the Image of Big Data blog
 subtitle: Changing the image

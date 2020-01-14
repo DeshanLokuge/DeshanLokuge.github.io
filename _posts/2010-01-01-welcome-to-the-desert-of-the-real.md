@@ -1,10 +1,11 @@
 ---
 date: 2019-05-16 23:48:05
 layout: post
-title: Big Data Specialization
-subtitle: - An analytical overview of the UCSD Big Data Specialization -
+title: Welcome to the desert of the real
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: >-
-  As a candidate who completed the Big Data Specialization provided by UCSD on Coursera, here is my analytical review of the course and its content as a whole.
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua.
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
@@ -13,9 +14,14 @@ category: blog
 tags:
   - welcome
   - blog
-author: deshanlokuge
+author: thiagorossener
 paginate: true
 ---
+Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+
+> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
 ## Inline HTML elements
 

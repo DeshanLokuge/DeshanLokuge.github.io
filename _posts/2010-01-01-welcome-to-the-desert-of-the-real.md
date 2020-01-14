@@ -2,9 +2,9 @@
 date: 2019-05-16 23:48:05
 layout: post
 title: Big Data Specialization
-subtitle: An analytical overview of the UCSD Big Data Specialization -
+subtitle: - An analytical overview of the UCSD Big Data Specialization -
 description: >-
-  As a candidate who completed the Big Data Specialization provided by UCSD on COursera, here is my analytical review of the course and its content as a whole.
+  As a candidate who completed the Big Data Specialization provided by UCSD on Coursera, here is my analytical review of the course and its content as a whole.
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
@@ -16,11 +16,12 @@ tags:
 author: deshanlokuge
 paginate: true
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+---
+This blog post is about the <a href="#">UCSD Big Data Specialization</a> in terms of its main objectives and success in achieving these goals.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> The post contains a review of the course and its content in accordance with the goal it sets to achieve as an online course specializing in Big Data and how successful it is, in delivering the stated content across to the audience.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Access and respective details about this course can be found at **Coursera Courses** content. Read more about the course and its specifics at [Big Data Specialization](https://www.coursera.org/specializations/big-data)
 
 ## Inline HTML elements
 

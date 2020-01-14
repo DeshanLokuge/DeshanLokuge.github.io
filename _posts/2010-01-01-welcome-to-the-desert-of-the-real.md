@@ -16,8 +16,6 @@ tags:
 author: deshanlokuge
 paginate: true
 ---
----
-
 
 ## Inline HTML elements
 

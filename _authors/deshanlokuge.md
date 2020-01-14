@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.jpg
+photo: /assets/img/uploads/profile.png
 name: deshanlokuge
 display_name: Deshan Lokuge
 position: Chief Editor

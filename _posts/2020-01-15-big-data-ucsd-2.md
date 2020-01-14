@@ -10,6 +10,8 @@ category: blog
 tags:
   - blog
   - welcome
+  - big
+  - data
 author: deshanlokuge
 ---
 This blog post is about the UCSD Big Data Specialization in terms of its main objectives and success in achieving these goals.

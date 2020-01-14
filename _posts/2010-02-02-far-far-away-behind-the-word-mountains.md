@@ -1,22 +1,21 @@
 ---
 date: 2019-05-12T19:17:18.000Z
 layout: post
-title: Big Data Specialization
-subtitle: - An analytical overview of the UCSD Big Data Specialization -
+title: Far far away behind the word mountains
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: >-
-  As a candidate who completed the Big Data Specialization provided by UCSD on Coursera,
-  here is my analytical review of the course and its content as a whole.
-
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  /assets/img/uploads/profile.png
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme5_wmutla.jpg
 optimized_image: >-
-  /assets/img/uploads/profile.png
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme5_wmutla.jpg
 category: travel
 tags:
   - mountains
   - travel
   - adventure
-author: deshanlokuge
+author: thiagorossener
 paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

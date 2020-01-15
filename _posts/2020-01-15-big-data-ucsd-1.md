@@ -1,5 +1,5 @@
 ---
-date: 2020-01-15 12:05
+date: 2020-01-15 12:24
 layout: post
 title: What you take home from UCSD Big Data Specialization
 subtitle: Look at the main take aways from the UCSD Big Data Specialization

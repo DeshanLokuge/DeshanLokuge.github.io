@@ -1,5 +1,5 @@
 ---
-date: 2020-01-15 11:07
+date: 2020-01-15 12:24
 layout: post
 title: What about Big Data Specialization by UCSD ?
 subtitle: An analytical overview of the UCSD Big Data Specialization

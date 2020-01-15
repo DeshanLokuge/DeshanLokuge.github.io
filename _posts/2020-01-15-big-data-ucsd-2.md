@@ -4,8 +4,8 @@ layout: post
 title: Big Data Specialization by UCSD
 subtitle: An analytical overview of the UCSD Big Data Specialization
 description: Analytical review of the course and its content
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
+image: /assets/img/uploads/bigdata1.png
+optimized_image: /assets/img/uploads/bigdata1.png
 category: blog
 tags:
   - blog

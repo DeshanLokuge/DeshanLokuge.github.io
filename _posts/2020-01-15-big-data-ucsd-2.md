@@ -14,7 +14,7 @@ tags:
   - data
 author: deshanlokuge
 ---
-This blog post is about the UCSD Big Data Specialization in terms of its main objectives and success in achieving these goals.
+**This blog post is about the UCSD Big Data Specialization in terms of its main objectives and success in achieving these goals.**
 
 > The post contains a review of the course and its content in accordance with the goal it sets to achieve as an online course specializing in Big Data and how successful it    is, in delivering the stated content across to the audience.
 

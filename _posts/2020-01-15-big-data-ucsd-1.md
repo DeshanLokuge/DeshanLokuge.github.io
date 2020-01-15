@@ -4,8 +4,8 @@ layout: post
 title: What you take home from UCSD Big Data Specialization
 subtitle: Look at the main take aways from the UCSD Big Data Specialization
 description: A comprehensive guide of the main take aways from the UCSD Big Data Specialization
-image: /assets/img/uploads/blog_2/image.png
-optimized_image: /assets/img/uploads/blog_2/opt_image.png
+image: /assets/img/uploads/blog_2_image.png
+optimized_image: /assets/img/uploads/blog_2_opt_image.png
 category: blog
 tags:
   - blog
@@ -101,7 +101,7 @@ _What you will learn from this course?_
 
 ### 6. BIG DATA CAPSTONE PROJECT
 
-![flamingo](/assets/img/uploads/blog_2/pinkflamingo.png)
+![flamingo](/assets/img/uploads/blog_2_pinkflamingo.png)
 
 After learning all these about Big Data, it would be a waste to not utilize them. Its time to show you and the mentors that you can use the learnt knowledge in a practical scenario. This is where the **Capstone Project** comes in. You will be given a task to handle an entore pipeline associated with a hypothetical industry related game knows as **Catch the Pink Flamingo**
 

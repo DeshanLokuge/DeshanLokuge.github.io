@@ -1,7 +1,7 @@
 ---
-date: 2020-01-15 00:21
+date: 2020-01-15 11:07
 layout: post
-title: Big Data Specialization by UCSD
+title: What about Big Data Specialization by UCSD ?
 subtitle: An analytical overview of the UCSD Big Data Specialization
 description: Analytical review of the course and its content
 image: /assets/img/uploads/bigdata1.png

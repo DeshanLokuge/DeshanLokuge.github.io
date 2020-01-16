@@ -1,7 +1,7 @@
 ---
-date: 2020-01-15 12:24
+date: 2020-01-16 10:47
 layout: post
-title: What you take home from UCSD Big Data Specialization
+title: What to take home from UCSD Big Data Specialization ??
 subtitle: Look at the main take aways from the UCSD Big Data Specialization
 description: A comprehensive guide of the main take aways from the UCSD Big Data Specialization
 image: /assets/img/uploads/blog_1_image.png

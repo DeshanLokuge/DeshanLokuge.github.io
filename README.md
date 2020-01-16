@@ -1,6 +1,6 @@
-```diff
-# - ---Blog.Space by Deshan ---
-```
+
+# --- Blog.Space _by Deshan_ --- :writing_hand:
+
 ![Jekflix Template Cover Image](/assets/img/blog-image-readme.png)
 
 ## What is it?

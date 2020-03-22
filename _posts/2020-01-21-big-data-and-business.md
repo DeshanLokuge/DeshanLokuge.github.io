@@ -5,7 +5,7 @@ title: Big Data, Enterprises and Impact
 subtitle: How businesses transcend through Big Data
 description:  Big data and business impact is a blog inspired by the learning derived from UCSD (University of California San Diego - Super Computer Center) Big Data Specialization delivered via Coursera
 image: /assets/img/uploads/blog_3_image.png
-optimized_image: /assets/img/uploads/blog_3_opt_image.png
+optimized_image: /assets/img/uploads/blog_3_image.png
 category: blog
 tags:
 - blog

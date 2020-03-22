@@ -5,7 +5,7 @@ title: Autonomous Ethics
 subtitle: Ethics in Self Driven Vehicles
 description:  This is a blog post on the ethical framework and feasibility in Self Driven Vehicles (SDVs)
 image: /assets/img/uploads/blog_6_image.png
-optimized_image: /assets/img/uploads/blog_6_opt_image.png
+optimized_image: /assets/img/uploads/blog_6_image.png
 category: blog
 tags:
 - Ethics

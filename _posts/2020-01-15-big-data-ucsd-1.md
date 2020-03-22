@@ -5,7 +5,7 @@ title: What to take home from UCSD Big Data Specialization ??
 subtitle: Look at the main take aways from the UCSD Big Data Specialization
 description: A comprehensive guide of the main take aways from the UCSD Big Data Specialization
 image: /assets/img/uploads/blog_1_image.png
-optimized_image: /assets/img/uploads/blog_1_opt_image.png
+optimized_image: /assets/img/uploads/blog_1_image.png
 category: blog
 tags:
   - blog

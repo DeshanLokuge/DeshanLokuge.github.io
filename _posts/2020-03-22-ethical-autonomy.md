@@ -21,11 +21,11 @@ author: deshanlokuge
 
 > A look at the questioning and convoluted ethical paradigms governing the safety and ethical feasibility of self driven automobiles ...
 
-Few decades back we were head over heels to see and hear about cars that drive themselves, that navigated when the driver fell asleep and performed maneuvers without human supervision. This vision of having self-driven automobiles or commonly known as Self-Driven-Vehicles (SVDs) have now become more than a concept and as we all know, the world has embarked on this new endeavour of giving more autonomy to machines to reduce human effort.
+Few decades back we were head over heels to see and hear about cars that drive themselves, that navigated when the driver fell asleep and performed maneuvers without human supervision. This vision of having self-driven automobiles or commonly known as Self-Driven-Vehicles (SDVs) have now become more than a concept and as we all know, the world has embarked on this new endeavour of giving more autonomy to machines to reduce human effort.
 
 It is not a mystery that self-driving cars have become technologically feasible. The million dollar question now is: are they ethically feasible?
 
-**_What is ethical feasibility in SVDs?_**
+**_What is ethical feasibility in SDVs?_**
 
 Mass usage of self-driving vehicles is only a few steps away and regardless of the respective complexity in mechanics and algorithms, the severity dwells where the vehicle has to take life and death decisions that can lead to unpleasant repercussions.  
 

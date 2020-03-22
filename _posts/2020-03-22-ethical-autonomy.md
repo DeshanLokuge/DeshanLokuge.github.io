@@ -29,7 +29,7 @@ It is not a mystery that self-driving cars have become technologically feasible.
 
 Mass usage of self-driving vehicles is only a few steps away and regardless of the respective complexity in mechanics and algorithms, the severity dwells where the vehicle has to take life and death decisions that can lead to unpleasant repercussions.  
 
-![ethical_feasibility](/assets/img/uploads/blog_6_opt_image.png)
+![blog_6_ethical_dilemma](/assets/img/uploads/blog_6_ethical_dilemma.png)
 
 This is because of the conscious decision making process that is inherent in human nature being a serious gap to be bridged once it comes to the ethical frameworks used in the car's decision-making process.
 

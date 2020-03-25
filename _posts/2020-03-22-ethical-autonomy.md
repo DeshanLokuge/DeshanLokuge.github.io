@@ -65,7 +65,7 @@ I would not go into detail about these ethical frameworks as of now, but if inte
 
 **_Autonomous driving in real life_**
 
-![tesla](/assets/img/uploads/blog_6_tesla.png)
+![Alt Text](https://media.giphy.com/media/V73wK25ZAFZ6/giphy.gif)
 
 Recently, Tesla released [this](https://youtu.be/tlThdr3O5Qo) video in which it stated about having achieved **“Full Self-Driving”**.  
 However the gravity lies in how safe and feasible the vehicle in tackling the spontaneous driving conditions of a real life road.

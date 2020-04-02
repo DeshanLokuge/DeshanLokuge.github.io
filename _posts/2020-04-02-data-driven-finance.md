@@ -4,7 +4,7 @@ layout: post
 title: Data Driven Finance
 subtitle: Dawn of Data Science & reforming Finance
 description:  The blog sheds light on the improvements and changes brought upon the domain of finance by the emergence of Data Science
-image: /assets/img/uploads/blog_5_image.png
+image: /assets/img/uploads/blog_7_image.png
 optimized_image: /assets/img/uploads/blog_7_image.png
 category: blog
 tags:

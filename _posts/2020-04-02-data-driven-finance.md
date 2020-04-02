@@ -1,5 +1,5 @@
 ---
-date: 2020-04-02 10:05
+date: 2020-04-02 12:08
 layout: post
 title: Data Driven Finance
 subtitle: Dawn of Data Science & reforming Finance
